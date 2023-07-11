@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.jpa.transaction.manager-id",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.transaction.manager-id'"
+  },
+  {
+    "name": "spring.jpa.transaction.manager-class",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.transaction.manager-class'"
+  }
+]}
