@@ -1,4 +1,9 @@
 # GardenManager
 The Community Garden Management App is a innovative and socially impactful platform designed to foster a sense of community and promote local sourcing of food. This app aims to bring neighborhoods closer together through the joy of gardening.
 
-[![Video Thumbnail](Garden Manager Demo/Home - We Run Gardens.png)](Garden Manager Demo/Home _ We Run Gardens - Brave 2023-07-11 17-45-51(1).mp4)
+Please click on the image below to get a FULL preview of the App.
+
+
+<a href="https://brianrod92.github.io/gardenManagerProject.html">
+<img src="Garden Manager Demo/Home - We Run Gardens.png" alt="We Run Gardens Home Page">
+</a>
