@@ -4,6 +4,14 @@ The Community Garden Management App is a innovative and socially impactful platf
 
 <h2>App use</h2>
 <p>The purpose of this app is to allow community garden managers to schedule events that volunteers can choose to join in their local areas.</p>
+<h3>Table of contents</h3>
+<ul>
+  <li>Tech Used</li>
+  <li>Main Views</li>
+  <li>Dashboards</li>
+  <li>Accesible Via Login</li>
+  <li>Forms & Validations</li>
+</ul>
 <a href="https://brianrod92.github.io/gardenManagerProject.html">
 <img src="Garden Manager Demo/Home - We Run Gardens.png" alt="We Run Gardens Home Page">
 </a>
