@@ -27,6 +27,19 @@ The Community Garden Management App is a innovative and socially impactful platf
   <p><span style="font-weight: bold">Agile Development Process: </span> Followed to ensure iterative and customer-centric development.</p>
 </div>
 <h3>Main Views</h3>
-<img src="" alt"Home Page" />
+<br>
+<div style="display: flex; justify-content: space-evenly">
+  
+<div>
+<p>Home Page</p>
+<img style="height: 400px" src="Garden Manager demo/Home - We Run Gardens.png" alt"Home Page" /> 
+</div>
+
+<div>
+<p>Home Page</p>
+<img style="height: 400px" src="Garden Manager demo/Home - We Run Gardens.png" alt"Home Page" /> 
+</div>
   
 </div>
+  
+
