@@ -15,8 +15,8 @@ The Community Garden Management App is a innovative and socially impactful platf
   <li>Forms & Validations</li>
   <li>Developer Notes</li>
 </ul>
-<h3>Tech Used</h3>
-<div style="border: 2px solid white; padding: 10px; background-color: blue; height: 20px">
+<h3 align="center">Tech Used</h3>
+<div align="center "style="border: 2px solid white; padding: 10px; background-color: blue; height: 20px">
   <p><span style="font-weight: bold">Java with Springboot Framework:</span> Used for the backend development, providing a robust and streamlined development experience.</p>
   <p><span style="font-weight: bold">MySQL with Spring Security: </span> Employed for data storage and secure authentication and authorization of users.</p>
   <p><span style="font-weight: bold">Ajax: </span> Enabled asynchronous communication with the backend for seamless data retrieval.</p>
@@ -26,19 +26,18 @@ The Community Garden Management App is a innovative and socially impactful platf
   <p><span style="font-weight: bold">JavaScript: </span> Implemented interactivity and dynamic behavior on the client-side.</p>
   <p><span style="font-weight: bold">Agile Development Process: </span> Followed to ensure iterative and customer-centric development.</p>
 </div>
-<h3>Main Views</h3>
+<h3 align="center">Main Views</h3>
 <br>
 <div style="display: flex; justify-content: space-evenly">
   
 <div>
 <p>Home Page</p>
-<img style="height: 400px" src="Garden Manager demo/Home - We Run Gardens.png" alt"Home Page" /> 
+<img align="left" style="height: 400px" src="Garden Manager demo/Home - We Run Gardens.png" alt"Home Page" /> 
+  <p align="right">Home Page</p>
+<img align="right" style="height: 400px" src="Garden Manager demo/Home - We Run Gardens.png" alt"Home Page" /> 
 </div>
 
-<div>
-<p>Home Page</p>
-<img style="height: 400px" src="Garden Manager demo/Home - We Run Gardens.png" alt"Home Page" /> 
-</div>
+
   
 </div>
   
