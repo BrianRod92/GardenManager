@@ -28,17 +28,20 @@ The Community Garden Management App is a innovative and socially impactful platf
 </div>
 <h3 align="center">Main Views</h3>
 <br>
-<div style="display: flex; justify-content: space-evenly">
-  
-<div>
-<p>Home Page</p>
-<img align="left" style="height: 400px" src="Garden Manager demo/Home - We Run Gardens.png" alt"Home Page" /> 
-  <p align="right">Home Page</p>
-<img align="right" style="height: 400px" src="Garden Manager demo/Home - We Run Gardens.png" alt"Home Page" /> 
-</div>
-
 
   
-</div>
+
+<p align="left">Home Page</p>
+<img align="left" style="height: 500px" src="Garden Manager demo/Home - We Run Gardens.png" alt"Home Page" /> 
+  <p align="right">Volunteer Info Page</p>
+<img align="right" style="height: 500px" src="Garden Manager demo/Volunteer for a Garden.png" alt"Volunteer Info Page" /> 
+<br>
+ <p align="left">Garden Manager Info Page </p>
+<img align="left" style="height: 500px" src="Garden Manager demo/Manage A Garden.png" alt"Garden Manager Info Page" /> 
+
+
+
+  
+
   
 
