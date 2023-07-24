@@ -8,14 +8,14 @@ The Community Garden Management App is a innovative and socially impactful platf
 </p>
 <h3>Table of contents</h3>
 <ul>
-  <a href="#"><li>Tech Used</li></a>
+  <li>[Tech Used](#tech-used)</li>
   <li>Main Views</li>
   <li>Dashboards</li>
   <li>Accesible Via Login</li>
   <li>Forms & Validations</li>
   <li>Developer Notes</li>
 </ul>
-<h3 align="center">Tech Used</h3>
+<h3 align="center">#Tech Used</h3>
 <div align="center "style="border: 2px solid white; padding: 10px; background-color: blue; height: 20px">
   <p><span style="font-weight: bold">Java with Springboot Framework:</span> Used for the backend development, providing a robust and streamlined development experience.</p>
   <p><span style="font-weight: bold">MySQL with Spring Security: </span> Employed for data storage and secure authentication and authorization of users.</p>
