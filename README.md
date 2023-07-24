@@ -4,7 +4,11 @@ The Community Garden Management App is a innovative and socially impactful platf
 
 
   
-  <img src="https://j.gifs.com/79x4N1.gif" width="50%">
+  
+
+<img src="" width="200">
+
+
 
 
 
