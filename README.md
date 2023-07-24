@@ -64,7 +64,37 @@ The Community Garden Management App is a innovative and socially impactful platf
 <p >Event Details</p>
 <img align="center" style="height: 500px" src="Garden Manager demo/Event Details.png" alt"Event Details Page" /> 
 
-<img src="https://j.gifs.com/Eqg4AW.gif" width="50%">
+<p >Create Event (Manager's Only)</p>
+<img align="center" style="height: 500px" src="Garden Manager demo/Create Event.png" alt"Create Event Page" /> 
+
+<h3 align="center">Forms & Validations</h3>
+<a name="forms-&-validations"></a>
+
+<p align="center">Register Volunteer Form/ Validations</p>
+<div style="display: flex; justify-content: space-evenly">
+  <img src="Garden Manager demo/Volunteer for a Garden Register.png" height="600" />
+  <img src="Garden Manager demo/Volunteer for a Garden Register Validations.png" height="600"  /> 
+</div>
+
+<br>
+<p align="center">Register Manager Form/ Validations</p>
+<div style="display: flex;">
+<img height="600" src="Garden Manager demo/Manage A Garden Register.png"  /> 
+<img height="600" src="Garden Manager demo/Manage A Garden Register Validations.png"  /> 
+</div>
+
+<p align="center">Create Event Form/ Validations</p>
+<div style="display: flex;">
+<img height="600" src="Garden Manager demo/Create Event Registration.png"  /> 
+<img height="600" src="Garden Manager demo/Create Event Registration Validations.png"  /> 
+</div>
+
+<p align="center">Log-In Manager Validations | Log-In Volunteer Validations</p>
+<div style="display: flex;">
+<img height="300" src="Garden Manager demo/Manager Login Validations.png"  /> 
+<img height="300" src="Garden Manager demo/Volunteer  Login Validations.png"  /> 
+</div>
+
 
 
 
