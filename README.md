@@ -6,13 +6,15 @@ The Community Garden Management App is a innovative and socially impactful platf
   
   
 
+<video loop autoplay muted>
+  <source src="https://github.com/BrianRod92/GardenManager/blob/d177c13ecb914e85e49ce26c281425992896cb7a/Garden%20Manager%20demo/Vids/Home%20_%20We%20Run%20Gardens%20-%20Brave%202023-07-11%2017-45-51(1).mp4" type="video/mp4">
+</video>
 
 
 
-Garden Manager demo/Vids/Home _ We Run Gardens - Brave 2023-07-11 17-45-51(1).mp4
 
 
-<img src="Garden Manager demo/Vids/Home _ We Run Gardens - Brave 2023-07-11 17-45-51(1).mp4" width="200">
+<img src="https://github.com/BrianRod92/GardenManager/blob/d177c13ecb914e85e49ce26c281425992896cb7a/Garden%20Manager%20demo/Vids/Home%20_%20We%20Run%20Gardens%20-%20Brave%202023-07-11%2017-45-51(1).mp4" width="200"/>
 
 
   
