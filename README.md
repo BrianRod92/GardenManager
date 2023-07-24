@@ -16,7 +16,7 @@ The Community Garden Management App is a innovative and socially impactful platf
 <br>
 • [Accesible Via Login](#accesible-via-login)
 <br>
-• [Forms & Validations](forms-&-validations)
+• [Forms & Validations](forms-and-validations)
 <br>
 • [Developer Notes](developer-notes)
 
@@ -68,7 +68,7 @@ The Community Garden Management App is a innovative and socially impactful platf
 <img align="center" style="height: 500px" src="Garden Manager demo/Create Event.png" alt"Create Event Page" /> 
 
 <h3 align="center">Forms & Validations</h3>
-<a name="forms-&-validations"></a>
+<a name="forms-and-validations"></a>
 
 <p align="center">Register Volunteer Form/ Validations</p>
 <div style="display: flex; justify-content: space-evenly">
