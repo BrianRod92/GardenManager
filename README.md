@@ -1,5 +1,16 @@
 # GardenManager
+
 The Community Garden Management App is a innovative and socially impactful platform designed to foster a sense of community and promote local sourcing of food. This app aims to bring neighborhoods closer together through the joy of gardening.
+
+
+  <img src="https://j.gifs.com/79x4N1.gif" width="50%">
+  
+
+
+
+
+  
+
 
 
 <h2>App use</h2>
@@ -16,9 +27,9 @@ The Community Garden Management App is a innovative and socially impactful platf
 <br>
 • [Accesible Via Login](#accesible-via-login)
 <br>
-• [Forms & Validations](forms-and-validations)
+• [Forms & Validations](#forms-validations)
 <br>
-• [Developer Notes](developer-notes)
+• [Developer Notes](#developer-notes)
 
 <h3 align="center">Tech Used</h3>
 <a name="tech-used"></a>
@@ -68,7 +79,7 @@ The Community Garden Management App is a innovative and socially impactful platf
 <img align="center" style="height: 500px" src="Garden Manager demo/Create Event.png" alt"Create Event Page" /> 
 
 <h3 align="center">Forms & Validations</h3>
-<a name="forms-and-validations"></a>
+<a name="forms-validations"></a>
 
 <p align="center">Register Volunteer Form/ Validations</p>
 <div style="display: flex; justify-content: space-evenly">
