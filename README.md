@@ -58,8 +58,11 @@ The Community Garden Management App is a innovative and socially impactful platf
 <p >Manager Dashboard</p>
 <img align="center" style="height: 500px" src="Garden Manager demo/Manager Dashboard.png" alt"Manager Dashboard Page" /> 
 
-<h3 align="center">Ac</h3>
-<a name="dashboards"></a>
+<h3 align="center">Accesible Via Login</h3>
+<a name="accesible-via-login"></a>
+
+<p >Event Details</p>
+<img align="center" style="height: 500px" src="Garden Manager demo/Event Details.png" alt"Event Details Page" /> 
 
 <img src="https://j.gifs.com/Eqg4AW.gif" width="50%">
 
