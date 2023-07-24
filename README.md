@@ -9,12 +9,10 @@ The Community Garden Management App is a innovative and socially impactful platf
 
 
 
-<video loop autoplay muted>
-  <source src="Garden Manager demo/Vids/Home _ We Run Gardens - Brave 2023-07-11 17-45-51(1).mp4" type="video/mp4">
-</video>
+Garden Manager demo/Vids/Home _ We Run Gardens - Brave 2023-07-11 17-45-51(1).mp4
 
 
-
+<img src="Garden Manager demo/Vids/Home _ We Run Gardens - Brave 2023-07-11 17-45-51(1).mp4" width="200">
 
 
   
