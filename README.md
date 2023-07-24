@@ -58,11 +58,15 @@ The Community Garden Management App is a innovative and socially impactful platf
 <p >Manager Dashboard</p>
 <img align="center" style="height: 500px" src="Garden Manager demo/Manager Dashboard.png" alt"Manager Dashboard Page" /> 
 
-<video src="https://j.gifs.com/Eqg4AW.gif"  autoplay mute />
+<h3 align="center">Ac</h3>
+<a name="dashboards"></a>
 
-[![Now in Android: 55]          // Title
-(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
-(https://j.gifs.com/Eqg4AW.gif "Now in Android: 55")    // Video Link
+<img src="https://j.gifs.com/Eqg4AW.gif" width="50%">
+
+
+
+
+
 
 
 
