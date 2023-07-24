@@ -8,14 +8,18 @@ The Community Garden Management App is a innovative and socially impactful platf
 </p>
 <h3>Table of contents</h3>
 
- [Tech Used](#tech-used)
-<ul>
-  <li>Main Views</li>
-  <li>Dashboards</li>
-  <li>Accesible Via Login</li>
-  <li>Forms & Validations</li>
-  <li>Developer Notes</li>
-</ul>
+• [Tech Used](#tech-used)
+<br>
+• [Main Views](#main-views)
+<br>
+• [Dashboards](#dashboards)
+<br>
+• [Accesible Via Login](#accesible-via-login)
+<br>
+• [Forms & Validations](forms-&-validations)
+<br>
+• [Developer Notes](developer-notes)
+
 <h3 align="center">Tech Used</h3>
 <a name="tech-used"></a>
 
@@ -30,19 +34,35 @@ The Community Garden Management App is a innovative and socially impactful platf
   <p><span style="font-weight: bold">Agile Development Process: </span> Followed to ensure iterative and customer-centric development.</p>
 </div>
 <h3 align="center">Main Views</h3>
+<a name="main-views"></a>
 <br>
 
-  
-
-<p align="left">Home Page</p>
-<img align="left" style="height: 500px" src="Garden Manager demo/Home - We Run Gardens.png" alt"Home Page" /> 
-  <p align="right">Volunteer Info Page</p>
-<img align="right" style="height: 500px" src="Garden Manager demo/Volunteer for a Garden.png" alt"Volunteer Info Page" /> 
+<p >Home Page</p>
+<img align="center" style="height: 500px" src="Garden Manager demo/Home - We Run Gardens.png" alt"Home Page" /> 
+  <p >Volunteer Info Page</p>
+<img align="center" style="height: 500px" src="Garden Manager demo/Volunteer for a Garden.png" alt"Volunteer Info Page" /> 
 <br>
- <p align="left">Garden Manager Info Page </p>
-<img align="left" style="height: 500px" src="Garden Manager demo/Manage A Garden.png" alt"Garden Manager Info Page" /> 
+ <p >Garden Manager Info Page </p>
+<img align="center" style="height: 500px" src="Garden Manager demo/Manage A Garden.png" alt"Garden Manager Info Page" /> 
+<p >About Page </p>
+<img align="center" style="height: 500px" src="Garden Manager demo/About Us.png" alt"About Page" /> 
+<p >Login</p>
+<img align="center" style="height: 500px" src="Garden Manager demo/Login.png" alt"Login Page" /> 
 
+<h3 align="center">Dashboards</h3>
+<a name="dashboards"></a>
 
+<p >Volunteer Dashboard</p>
+<img align="center" style="height: 500px" src="Garden Manager demo/Volunteer Dashboard.png" alt"Volunteer Dashboard Page" /> 
+
+<p >Manager Dashboard</p>
+<img align="center" style="height: 500px" src="Garden Manager demo/Manager Dashboard.png" alt"Manager Dashboard Page" /> 
+
+<video src="https://j.gifs.com/Eqg4AW.gif"  autoplay mute />
+
+[![Now in Android: 55]          // Title
+(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
+(https://j.gifs.com/Eqg4AW.gif "Now in Android: 55")    // Video Link
 
 
 
