@@ -6,14 +6,7 @@ The Community Garden Management App is a innovative and socially impactful platf
   
   
 
-<video loop autoplay muted>
-
-  <source src="Garden Manager demo/Vids/Home _ We Run Gardens - Brave 2023-07-11 17-45-51(1).mp4" type="video/mp4">
-
-</video>
-
-
-  
+![Home We Run Gardens](https://github.com/BrianRod92/GardenManager/assets/121057511/15ac87b9-8f04-48f1-b9dc-5c8d270da5ff)
 
 
 
@@ -111,6 +104,10 @@ The Community Garden Management App is a innovative and socially impactful platf
 </div>
 
 
+<h3 align="center">Developer Notes</h3>
+<a name="developer-notes"></a>
+
+<p>Hi, Thank You for visiting my project. I developed this fullstack web application from initial concept to deployed product. I had to wear many hats and overcome many challenges. But after deployment I couldn't be happier for all the experience I obtained. Recognizing the roles that are played in a team is vital in being a true asset with empathy towards everyones role. If you have any suggestions for this app. Please connect with me via  <a href="https://www.linkedin.com/in/brian-rodriguez-241872274/" >LinkedIn</a></p>
 
 
 
