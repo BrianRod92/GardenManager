@@ -17,6 +17,7 @@ The Community Garden Management App is a innovative and socially impactful platf
   <li>Developer Notes</li>
 </ul>
 <h3 align="center">Tech Used</h3>
+<a name="tech-used"></a>
 
 <div align="center "style="border: 2px solid white; padding: 10px; background-color: blue; height: 20px">
   <p><span style="font-weight: bold">Java with Springboot Framework:</span> Used for the backend development, providing a robust and streamlined development experience.</p>
@@ -40,8 +41,8 @@ The Community Garden Management App is a innovative and socially impactful platf
 <br>
  <p align="left">Garden Manager Info Page </p>
 <img align="left" style="height: 500px" src="Garden Manager demo/Manage A Garden.png" alt"Garden Manager Info Page" /> 
-### Tech Used
-Tech used below
+
+
 
 
 
